@@ -1,4 +1,5 @@
 ## Multiples of 3 or 5
+Original Link => [1. Project](https://projecteuler.net/problem=1)
 ```python
 sum = 0
 for i in range(1000):
