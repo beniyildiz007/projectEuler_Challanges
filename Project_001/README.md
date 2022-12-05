@@ -1,4 +1,3 @@
-# ProjectEuler => 1. Project
 ## Multiples of 3 or 5
 ```python
 sum = 0
